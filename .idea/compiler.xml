@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="HealthySpider" />
+        <module name="WebMagic" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Crawler" target="1.7" />
       <module name="HealthySpider" target="1.7" />
+      <module name="WebMagic" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

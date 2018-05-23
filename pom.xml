@@ -9,6 +9,7 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>HealthySpider</module>
+    <module>WebMagic</module>
   </modules>
   <packaging>pom</packaging>
 

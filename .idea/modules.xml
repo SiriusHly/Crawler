@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Crawler.iml" filepath="$PROJECT_DIR$/Crawler.iml" />
       <module fileurl="file://$PROJECT_DIR$/HealthySpider/HealthySpider.iml" filepath="$PROJECT_DIR$/HealthySpider/HealthySpider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebMagic/WebMagic.iml" filepath="$PROJECT_DIR$/WebMagic/WebMagic.iml" />
     </modules>
   </component>
 </project>
