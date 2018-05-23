@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HealthySpider:war">
+    <output-path>$PROJECT_DIR$/HealthySpider/target</output-path>
+    <root id="archive" name="HealthySpider.war">
+      <element id="artifact" artifact-name="HealthySpider:war exploded" />
+    </root>
+  </artifact>
+</component>
