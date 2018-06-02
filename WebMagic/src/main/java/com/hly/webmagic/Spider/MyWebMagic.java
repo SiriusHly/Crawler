@@ -13,7 +13,6 @@ import java.util.List;
  * @date :2018/6/2
  */
 public class MyWebMagic implements PageProcessor {
-
     private Site site = Site.me();
 
     public void process(Page page) {
