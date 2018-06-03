@@ -55,7 +55,7 @@ public class SchoolFlower implements PageProcessor {
             //当然要按条件筛选啦，丑的图当然不能要
             String diggNum = page.getHtml().xpath("//div[@class='digg_num']/text()").regex("\\d+").toString();
             //点赞数要超过300
-            if (Integer.parseInt(diggNum) > 200) {
+            if (Integer.parseInt(diggNum) > 100) {
                 //得到照片url
                 String photoURL = page.getHtml().xpath("//div[@class='picbox']/a").css("img", "src").toString();
                 System.out.println(photoURL);
